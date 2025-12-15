@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<workspace fileVersion="4">
+  <installerUpdatesStream>stable</installerUpdatesStream>
+  <defaultDependencyStream>beta</defaultDependencyStream>
+  <showLegacyModulesOnList>false</showLegacyModulesOnList>
+  <commitAfterEachUpdate>false</commitAfterEachUpdate>
+</workspace>

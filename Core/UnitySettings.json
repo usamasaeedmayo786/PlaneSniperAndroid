@@ -1,0 +1,17 @@
+{
+	"lastPlatform": 3,
+	"autoUpdateTrigger": 0,
+	"generateConfigOnNextRefresh": false,
+	"moduleLocalData": [
+		
+	],
+	"sortMode": 0,
+	"filterMode": 0,
+	"currentCategory": "core",
+	"outputLogsToConsole": false,
+	"diagnosticsSent": "0001-01-01T00:00:00",
+	"nextSettingsCheck": "0001-01-01T00:00:00",
+	"installerUpdatesStream": "beta",
+	"postponeInstallerUpdate": 0,
+	"fileVersion": 3
+}

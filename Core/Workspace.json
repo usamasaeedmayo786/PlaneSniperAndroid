@@ -1,0 +1,10 @@
+{
+	"installerUpdatesStream": "stable",
+	"defaultDependencyStream": "beta",
+	"showLegacyModulesOnList": false,
+	"commitAfterEachUpdate": false,
+	"releaseNotes": {
+		
+	},
+	"fileVersion": 4
+}
