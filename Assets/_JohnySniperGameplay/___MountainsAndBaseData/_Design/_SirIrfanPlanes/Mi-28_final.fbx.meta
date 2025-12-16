@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: 4f3286307a3a0de478a13d83350e429b
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: 7fce9c826fbf77a4bb9dc0b952d13da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28
+    second: {fileID: 2100000, guid: 0824a009cadb8754fb2c972ea7bb28ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_Loft_NURBS
+    second: {fileID: 2100000, guid: af0aec0a37a6344498eafd12ccb0cdd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_Loft_NURBS_14
+    second: {fileID: 2100000, guid: 4ac604b551c08984781d0e7a0a4b8c75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_Loft_NURBS_14_Cap_14
+    second: {fileID: 2100000, guid: 0712224495920a1428b1d39a5c6ef5a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_Loft_NURBS_14_Cap_24
+    second: {fileID: 2100000, guid: a08e9df1543bf5f46ad3d3410e8a24eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_Loft_NURBS_Cap_1
+    second: {fileID: 2100000, guid: 9a20a4513d27d2a4e80a92840251b23a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_Loft_NURBS_Cap_2
+    second: {fileID: 2100000, guid: 38517d943fe2e61479bb2a90e87b325f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_back_rotor_axis
+    second: {fileID: 2100000, guid: 00fbd976a035bd74b9a94b25ce8d13bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_back_rotor_axis_small_rotor_leaf_leaf_rotor_small_leaf_rotor_small_1
+    second: {fileID: 2100000, guid: bab3dac41bc574a4f8b46eaf15b65ef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_back_rotor_axis_small_rotor_leaf_leaf_rotor_small_leaf_rotor_small_11
+    second: {fileID: 2100000, guid: c0a8c4d380fa8a341b27db70f40beaa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_Cylinder
+    second: {fileID: 2100000, guid: f831e40d30ef18548a4c2c1fc4352789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_cannon1
+    second: {fileID: 2100000, guid: a03af3bfbd84eb04f993c46ac80cb2bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_magazines_Symmetry_5_Boole_3_Boole_Loft_NURBS_1
+    second: {fileID: 2100000, guid: f8470c82685c76541b7fb49f3ac6cc85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_magazines_Symmetry_5_Boole_3_Boole_Loft_NURBS_1_Cap_110
+    second: {fileID: 2100000, guid: 1344f78879a179a4aa3007d5dc4512e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_magazines_Symmetry_5_Boole_3_Boole_Loft_NURBS_1_Cap_210
+    second: {fileID: 2100000, guid: 972aad8306669fb45a7a3219b3991bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_magazines_Symmetry_5_Boole_3_Boole_Loft_NURBS_4
+    second: {fileID: 2100000, guid: 4facc7949683aa04a82c92e08f9660d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_magazines_Symmetry_5_Boole_3_Boole_Loft_NURBS_4_Cap_19
+    second: {fileID: 2100000, guid: a091c36cdafac4148ac7c2f053b6b385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_magazines_Symmetry_5_Boole_3_Boole_Loft_NURBS_4_Cap_28
+    second: {fileID: 2100000, guid: eaf440f0f983c90458a2ba3748385cf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_magazines_Symmetry_5_Boole_3_Loft_NURBS_11
+    second: {fileID: 2100000, guid: 17ac44daf1a83894181f0252a7f4bf03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_magazines_Symmetry_5_Boole_3_Loft_NURBS_11_Cap_17
+    second: {fileID: 2100000, guid: 299e22e626d84c4489a4b4e76161325b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_magazines_Symmetry_5_Boole_3_Loft_NURBS_11_Cap_27
+    second: {fileID: 2100000, guid: 4bc3ddd02d8d5a941a31b47eca3588ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_magazines_Symmetry_6_Loft_NURBS_12
+    second: {fileID: 2100000, guid: 2772190cc06266f47b2d24d718587b23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cannon_magazines_Symmetry_6_Loft_NURBS_12_Cap_16
+    second: {fileID: 2100000, guid: ffb8dd8046bb79f4a98d823e361ed0b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_carriers
+    second: {fileID: 2100000, guid: 72d1a64c7c2f20d42a95e623221b6f37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_cover_big
+    second: {fileID: 2100000, guid: 4536e66255627a54ab5573d3dde85a65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_door_Loft_NURBS_13
+    second: {fileID: 2100000, guid: 661ead0414e144445b5c0ea1c138d1f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_door_Loft_NURBS_13_Cap_15
+    second: {fileID: 2100000, guid: 4ca5d97d736a85d47862476777150123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_door_Loft_NURBS_13_Cap_25
+    second: {fileID: 2100000, guid: 533fabd4138066b489ee2fe3185eae86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_front_door_door_front
+    second: {fileID: 2100000, guid: 3470c2adc924a4040ba82716f53216fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_glass_back_side
+    second: {fileID: 2100000, guid: 552a852cb724c4148936ce066cd298e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_glass_back_side_Cap_12
+    second: {fileID: 2100000, guid: 96c12097f82fa09419ead16f5209871e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_glass_back_side_Cap_22
+    second: {fileID: 2100000, guid: 6d3bd493fe9099c4eb3da14c6cdabc0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_glass_frontt_side
+    second: {fileID: 2100000, guid: 3c7c6ff09ea348c4096f7df6326f5a54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_glass_frontt_side_Cap_13
+    second: {fileID: 2100000, guid: e51814ca36799dc478d6f91914a9ec08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_glass_frontt_side_Cap_23
+    second: {fileID: 2100000, guid: 903cab1e776d7974d836a6c934ca6f3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_handle
+    second: {fileID: 2100000, guid: c8635f9674568ce4c96b88df1e804746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_handle_Cap_11
+    second: {fileID: 2100000, guid: 12f5fc8d41e58384faec5b4b9cfb2846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_handle_Cap_21
+    second: {fileID: 2100000, guid: 367ace8b2ecc312458c2c62f94543a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles
+    second: {fileID: 2100000, guid: cb9ce7846ef46614589c4d5e6251f17b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_Cap_18
+    second: {fileID: 2100000, guid: 29881e2818573844e88b7bed12e3e716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_Cap_29
+    second: {fileID: 2100000, guid: a9098928087421f43b66a8d63ba0175e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile1_Tube7
+    second: {fileID: 2100000, guid: 67258dc7cc431e743890441f17259491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile1_missile
+    second: {fileID: 2100000, guid: e38951b1b7674d34ba48e783f7f61aae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_1_Tube6
+    second: {fileID: 2100000, guid: 25e85c7dfa65905469bb78bef253a441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_1_missile2
+    second: {fileID: 2100000, guid: d726506ad08b4904b8ded244d12c6264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_2_Tube5
+    second: {fileID: 2100000, guid: 7367f10a48db61043a6fd5cc4ccb8103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_2_missile3
+    second: {fileID: 2100000, guid: e92733c88197e3a439bc08af60d9e4e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_3_Tube4
+    second: {fileID: 2100000, guid: 2df38807a2a457448bb664c4d9302e6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_3_missile4
+    second: {fileID: 2100000, guid: a418a379586addb47ad8873275376b02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_4_Tube3
+    second: {fileID: 2100000, guid: a610fd9f8353fa74bb587f702a9e1c74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_4_missile5
+    second: {fileID: 2100000, guid: 1b1493f1e51b85747af7c5e5c3cd2e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_5_Tube2
+    second: {fileID: 2100000, guid: 756852bb116db434da46ac19bc16f5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_5_missile6
+    second: {fileID: 2100000, guid: cfae78d267452f740a9a8a27cdd406df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_6_Tube1
+    second: {fileID: 2100000, guid: 8152f558964ecb049a4c46999cbd58ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_6_missile7
+    second: {fileID: 2100000, guid: 057c91e22e6b4b5469e3440e6439665a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_7_Tube
+    second: {fileID: 2100000, guid: 443f4a48c5b5e904f91d36ef0ae8f978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_missiles1_missiles_missile_7_missile8
+    second: {fileID: 2100000, guid: b4775df24b44f7d488f9ae2a5c30e9f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_radar
+    second: {fileID: 2100000, guid: 6218fe16a50b8834799eda93f30695dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rocket_launcher
+    second: {fileID: 2100000, guid: 28984e297f97768449e9a3666b9ee413, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor
+    second: {fileID: 2100000, guid: c6073a9c017ecbd41bf4b4a645f493d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_flower
+    second: {fileID: 2100000, guid: 2cca104d594832049bef8a45af44b417, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor
+    second: {fileID: 2100000, guid: bae3356bc5f1f8c4bb9c7dc9f93a2cc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_1
+    second: {fileID: 2100000, guid: 4b9ab1fc57ca53e46b09f5067fa64b4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_1_Cube_32
+    second: {fileID: 2100000, guid: 8144028901fa76047a5cf3eb9d4d5d72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_1_axe4
+    second: {fileID: 2100000, guid: b43e38f705091db42a5f0f63fdc64e47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_2
+    second: {fileID: 2100000, guid: ff7529b229b9471428240db6b18643a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_2_Cube_34
+    second: {fileID: 2100000, guid: 8b65aaf5feb454641ab3f831a3a55ab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_2_axe1
+    second: {fileID: 2100000, guid: 360cedeeaa470644db81ed0ce21f0f1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_3
+    second: {fileID: 2100000, guid: 48764f2568ae2e849885c3317c2abe58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_3_Cube_33
+    second: {fileID: 2100000, guid: 0962db162256f634cb267a6048b87254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_3_axe
+    second: {fileID: 2100000, guid: 6b06b6f9e03943b438e5e59a65ac0d31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_4
+    second: {fileID: 2100000, guid: 59724f4c45fa6024faf9adc15d28f11e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_4_Cube_3
+    second: {fileID: 2100000, guid: 41a78a1f427428b44949e3ba28a5ba20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_4_axe3
+    second: {fileID: 2100000, guid: c7cf3b1e54a3ff94a8651f9911de87e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_Cube_31
+    second: {fileID: 2100000, guid: d27a5684ed9a5f647bbce4ea550f7a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotor_main_rotor_leaf_rotor_axe2
+    second: {fileID: 2100000, guid: 286d8c66b51da7a499ed2b70941519d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_rotors
+    second: {fileID: 2100000, guid: a1d8d2cc6614ba8478288c3ad7a03038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_small_wheel_Symmetry_3_Cube2
+    second: {fileID: 2100000, guid: 9f533003040f8614ca7807e47737f38a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_small_wheel_forks
+    second: {fileID: 2100000, guid: 043cfd85f71b53b43939aed0a27d3cf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_small_wheel_wheel
+    second: {fileID: 2100000, guid: 884615c8c0138964b99f19c2366d505d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_small_wheel_wheel_screw
+    second: {fileID: 2100000, guid: f3b45501f9ffb644286149356da77722, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_sterac
+    second: {fileID: 2100000, guid: 563d857e5ff7e9843b83d27d6a9f48e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_sterac_1
+    second: {fileID: 2100000, guid: 87ea0017b5028b84b9bbec4970eb5d6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_sterac_1_Cube1
+    second: {fileID: 2100000, guid: e22e066b2afe5ef49920cef9768b74a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_sterac_1_Cylinder1
+    second: {fileID: 2100000, guid: 48e88d5bfe56b0849a3ffa897132d319, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_sterac_1_Cylinder_1
+    second: {fileID: 2100000, guid: f66fb81bbedefce429acfec4afb64e8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_sterac_Cube
+    second: {fileID: 2100000, guid: 5a1005c4c485b2a41ae71fc4924a90e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_sterac_Cylinder2
+    second: {fileID: 2100000, guid: a21158a790c377849992e8aaafd1ae04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_sterac_Cylinder_11
+    second: {fileID: 2100000, guid: 02a8731ee068cf14fb05126088c767d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_wheels_leg
+    second: {fileID: 2100000, guid: 05d7aa7eaa0b85444bb5fd465f129b86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_wheels_leg_Lathe_NURBS_1
+    second: {fileID: 2100000, guid: 397f564f1391f1845bfa5d2a176d6b69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_wheels_leg_tyre
+    second: {fileID: 2100000, guid: f264a08984387164b8a5b7b61ce5e018, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_windows
+    second: {fileID: 2100000, guid: d729544a36dc54649819f89755122bc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi-28_wings
+    second: {fileID: 2100000, guid: f4c7960a6c66fa648a46f23e6938ec6a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
