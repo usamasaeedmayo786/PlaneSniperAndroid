@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf08b51e6b2e14be0904e7bc3aaa7421, type: 3}
+  m_Name: "Leve\uF746lSetting_2"
+  m_EditorClassIdentifier: 
+  enemySpawnSettings:
+  - {fileID: 11400000, guid: fecedb01410914f548b00908a75263b7, type: 2}
+  - {fileID: 11400000, guid: 040ecf7f07cd04203bb3653419be2080, type: 2}
+  finalEnvironment: {fileID: 7935271478329414770, guid: 2e2acfbc1c7d85840bd18f3016df8ff6,
+    type: 3}
+  finalDefensePositionPrefab: {fileID: 5329033739416561476, guid: eb7069b57d5637a43a4b052f3580f1ea,
+    type: 3}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402265125100",
+    "project_id": "sky-defender-aerial-sniper",
+    "storage_bucket": "sky-defender-aerial-sniper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402265125100:android:8697be3970ebf1dfd9f5c9",
+        "android_client_info": {
+          "package_name": "com.pe.AirDefenseSniper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCggtJJbBlLnJ88mppFrkitOLTpxMUYt1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

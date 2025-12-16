@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a5f540833f2a4191b996ad47a43665b, type: 3}
+  m_Name: Enemy_4_1
+  m_EditorClassIdentifier: 
+  enemies:
+  - enemyToSpawn: {fileID: 8914549631167704032, guid: 99a60cddfd6294c049836943536d123e,
+      type: 3}
+    count: 4
+    healthMod: -0.6
+    damageMod: -0.9
+    localSpawnPosition: {x: 20, y: 0, z: 25}
+    spawnDelay: 1
+    spawnInGroupDelay: 0.8
+  - enemyToSpawn: {fileID: -8595988239609332764, guid: 8419f29cfda5b4cf8b010177aa91dff3,
+      type: 3}
+    count: 2
+    healthMod: -0.2
+    damageMod: -0.75
+    localSpawnPosition: {x: 15, y: 0, z: 25}
+    spawnDelay: 2
+    spawnInGroupDelay: 0.5
+  - enemyToSpawn: {fileID: 8914549631167704032, guid: 99a60cddfd6294c049836943536d123e,
+      type: 3}
+    count: 4
+    healthMod: -0.6
+    damageMod: -0.9
+    localSpawnPosition: {x: -10, y: 0, z: 55}
+    spawnDelay: 2
+    spawnInGroupDelay: 1
+  - enemyToSpawn: {fileID: -8038693557723911135, guid: 12227a6a8ded74125901c0ab06a2d04c,
+      type: 3}
+    count: 3
+    healthMod: 0.2
+    damageMod: 0.5
+    localSpawnPosition: {x: -10, y: 0, z: 55}
+    spawnDelay: 5
+    spawnInGroupDelay: 2
+  defensePositionEnvaerment: {fileID: 7935271478329414770, guid: 6988b9930b95e46499d33ea1d8de3f65,
+    type: 3}
+  defensePositionPrefab: {fileID: 6786884840476379550, guid: d62a05096f5ba4662967c07ec882f6cd,
+    type: 3}
