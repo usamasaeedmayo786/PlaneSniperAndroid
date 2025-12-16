@@ -12,6 +12,6 @@
 	"diagnosticsSent": "0001-01-01T00:00:00",
 	"nextSettingsCheck": "0001-01-01T00:00:00",
 	"installerUpdatesStream": "beta",
-	"postponeInstallerUpdate": 0,
+	"postponeInstallerUpdate": 1,
 	"fileVersion": 3
 }
